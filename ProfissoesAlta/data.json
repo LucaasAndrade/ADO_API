@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "profissao": "Engenheiro de Machine Learning",
+        "descricao": "Um engenheiro de machine learning projeta, desenvolve e implementa sistemas de aprendizado de máquina para analisar grandes conjuntos de dados e fazer previsões ou tomar decisões automatizadas."
+    },
+    {
+        "id": 2,
+        "profissao": "Desenvolvedor de Inteligência Artificial",
+        "descricao": "Um desenvolvedor de inteligência artificial projeta e implementa sistemas de inteligência artificial para realizar tarefas que normalmente requerem inteligência humana."
+    },
+    {
+        "id": 3,
+        "profissao": "Especialista em Segurança da Informação",
+        "descricao": "Um especialista em segurança da informação é responsável por proteger os sistemas de informação de uma organização contra ameaças internas e externas."
+    },
+    {
+        "id": 4,
+        "profissao": "Analista de Dados",
+        "descricao": "Um analista de dados coleta, organiza e analisa grandes conjuntos de dados para extrair informações úteis e tomar decisões informadas."
+    },
+    {
+        "id": 5,
+        "profissao": "Desenvolvedor de Software",
+        "descricao": "Um desenvolvedor de software projeta, desenvolve e mantém sistemas de software para diversas finalidades, como aplicativos móveis, plataformas web, sistemas embarcados, entre outros."
+    },
+    {
+        "id": 6,
+        "profissao": "Cientista de Dados",
+        "descricao": "Um cientista de dados é responsável por coletar, analisar e interpretar grandes conjuntos de dados para identificar padrões, tendências e insights que possam ajudar uma organização a tomar decisões estratégicas."
+    },
+    {
+        "id": 7,
+        "profissao": "Engenheiro de Dados",
+        "descricao": "Um engenheiro de dados projeta, desenvolve e mantém sistemas de gerenciamento de dados para armazenar, processar e acessar grandes volumes de dados de forma eficiente e escalável."
+    },
+    {
+        "id": 8,
+        "profissao": "Arquiteto de Nuvem",
+        "descricao": "Um arquiteto de nuvem é responsável por projetar e implementar infraestruturas de computação em nuvem para empresas e organizações, garantindo alta disponibilidade, segurança e desempenho."
+    },
+    {
+        "id": 9,
+        "profissao": "Desenvolvedor Full Stack",
+        "descricao": "Um desenvolvedor full stack é especializado no desenvolvimento de aplicativos web e móveis, trabalhando tanto no lado do cliente quanto no lado do servidor."
+    },
+    {
+        "id": 10,
+        "profissao": "Engenheiro de DevOps",
+        "descricao": "Um engenheiro de DevOps é responsável por facilitar a colaboração e a comunicação entre equipes de desenvolvimento de software e operações de TI, automatizando processos de implantação, monitoramento e escalonamento."
+    },
+    {
+        "id": 11,
+        "profissao": "Desenvolvedor de Aplicativos Móveis",
+        "descricao": "Um desenvolvedor de aplicativos móveis projeta, desenvolve e mantém aplicativos para dispositivos móveis, como smartphones e tablets, para atender às necessidades dos usuários."
+    },
+    {
+        "id": 12,
+        "profissao": "Designer de Experiência do Usuário (UX)",
+        "descricao": "Um designer de experiência do usuário (UX) é responsável por projetar a experiência geral de um produto digital, focando na usabilidade, acessibilidade e satisfação do usuário."
+    },
+    {
+        "id": 13,
+        "profissao": "Especialista em Blockchain",
+        "descricao": "Um especialista em blockchain é responsável por desenvolver e implementar soluções baseadas em tecnologia de blockchain para garantir transações seguras e transparentes em diversos setores, como finanças, saúde e cadeia de suprimentos."
+    },
+    {
+        "id": 14,
+        "profissao": "Engenheiro de Cibersegurança",
+        "descricao": "Um engenheiro de cibersegurança projeta e implementa medidas de segurança de TI para proteger sistemas e redes contra ataques cibernéticos, incluindo vírus, malware, phishing e outras ameaças."
+    },
+    {
+        "id": 15,
+        "profissao": "Especialista em Ciência de Dados",
+        "descricao": "Um especialista em ciência de dados é responsável por aplicar técnicas avançadas de análise de dados para resolver problemas complexos e extrair insights valiosos de conjuntos de dados."
+    },
+    {
+        "id": 16,
+        "profissao": "Engenheiro de Realidade Aumentada (AR) / Realidade Virtual (VR)",
+        "descricao": "Um engenheiro de realidade aumentada (AR) / realidade virtual (VR) desenvolve aplicativos e experiências imersivas que combinam elementos digitais com o mundo real, criando novas formas de interação e entretenimento."
+    },
+    {
+        "id": 17,
+        "profissao": "Analista de Segurança da Informação",
+        "descricao": "Um analista de segurança da informação é responsável por monitorar e avaliar a segurança de sistemas de informação, detectando e respondendo a ameaças de segurança e vulnerabilidades."
+    },
+    {
+        "id": 18,
+        "profissao": "Especialista em Internet das Coisas (IoT)",
+        "descricao": "Um especialista em Internet das Coisas (IoT) projeta, implementa e gerencia sistemas conectados que coletam e trocam dados entre dispositivos físicos e digitais, oferecendo novas oportunidades para automação e inteligência em diversos setores."
+    },
+    {
+        "id": 19,
+        "profissao": "Desenvolvedor de Jogos",
+        "descricao": "Um desenvolvedor de jogos projeta, desenvolve e implementa jogos eletrônicos para diversas plataformas, como consoles, computadores e dispositivos móveis, utilizando habilidades em programação, design de jogos e gráficos computacionais."
+    },
+    {
+        "id": 20,
+        "profissao": "Especialista em Inteligência de Negócios (BI)",
+        "descricao": "Um especialista em inteligência de negócios (BI) é responsável por coletar, analisar e visualizar dados de negócios para ajudar as organizações a tomar decisões estratégicas e operacionais baseadas em informações precisas e atualizadas."
+    }
+]

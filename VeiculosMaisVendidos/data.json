@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "ano": 2023,
+        "tipo": "Carro",
+        "vendas_anuais": 1348584
+    },
+    {
+        "id": 2,
+        "marca": "Ford",
+        "modelo": "F-Series",
+        "ano": 2023,
+        "tipo": "Caminhonete",
+        "vendas_anuais": 1147593
+    },
+    {
+        "id": 3,
+        "marca": "Toyota",
+        "modelo": "Rav4",
+        "ano": 2023,
+        "tipo": "SUV",
+        "vendas_anuais": 1087851
+    },
+    {
+        "id": 4,
+        "marca": "Chevrolet",
+        "modelo": "Silverado",
+        "ano": 2023,
+        "tipo": "Caminhonete",
+        "vendas_anuais": 1013718
+    },
+    {
+        "id": 5,
+        "marca": "Honda",
+        "modelo": "Civic",
+        "ano": 2023,
+        "tipo": "Carro",
+        "vendas_anuais": 978158
+    },
+    {
+        "id": 6,
+        "marca": "Nissan",
+        "modelo": "Sentra",
+        "ano": 2023,
+        "tipo": "Carro",
+        "vendas_anuais": 845296
+    },
+    {
+        "id": 7,
+        "marca": "Ram",
+        "modelo": "Ram Pickup",
+        "ano": 2023,
+        "tipo": "Caminhonete",
+        "vendas_anuais": 798125
+    },
+    {
+        "id": 8,
+        "marca": "Honda",
+        "modelo": "CR-V",
+        "ano": 2023,
+        "tipo": "SUV",
+        "vendas_anuais": 745389
+    },
+    {
+        "id": 9,
+        "marca": "Ford",
+        "modelo": "Escape",
+        "ano": 2023,
+        "tipo": "SUV",
+        "vendas_anuais": 714528
+    },
+    {
+        "id": 10,
+        "marca": "Chevrolet",
+        "modelo": "Equinox",
+        "ano": 2023,
+        "tipo": "SUV",
+        "vendas_anuais": 698415
+    },
+    {
+        "id": 11,
+        "marca": "Ford",
+        "modelo": "Explorer",
+        "ano": 2023,
+        "tipo": "SUV",
+        "vendas_anuais": 672594
+    },
+    {
+        "id": 12,
+        "marca": "Toyota",
+        "modelo": "Camry",
+        "ano": 2023,
+        "tipo": "Carro",
+        "vendas_anuais": 649821
+    },
+    {
+        "id": 13,
+        "marca": "Jeep",
+        "modelo": "Grand Cherokee",
+        "ano": 2023,
+        "tipo": "SUV",
+        "vendas_anuais": 621487
+    },
+    {
+        "id": 14,
+        "marca": "Toyota",
+        "modelo": "Tacoma",
+        "ano": 2023,
+        "tipo": "Caminhonete",
+        "vendas_anuais": 598321
+    },
+    {
+        "id": 15,
+        "marca": "Chevrolet",
+        "modelo": "Malibu",
+        "ano": 2023,
+        "tipo": "Carro",
+        "vendas_anuais": 573198
+    },
+    {
+        "id": 16,
+        "marca": "Ford",
+        "modelo": "Edge",
+        "ano": 2023,
+        "tipo": "SUV",
+        "vendas_anuais": 548237
+    },
+    {
+        "id": 17,
+        "marca": "GMC",
+        "modelo": "Sierra",
+        "ano": 2023,
+        "tipo": "Caminhonete",
+        "vendas_anuais": 521486
+    },
+    {
+        "id": 18,
+        "marca": "Jeep",
+        "modelo": "Wrangler",
+        "ano": 2023,
+        "tipo": "SUV",
+        "vendas_anuais": 496321
+    },
+    {
+        "id": 19,
+        "marca": "Toyota",
+        "modelo": "Highlander",
+        "ano": 2023,
+        "tipo": "SUV",
+        "vendas_anuais": 472815
+    },
+    {
+        "id": 20,
+        "marca": "Ford",
+        "modelo": "Expedition",
+        "ano": 2023,
+        "tipo": "SUV",
+        "vendas_anuais": 449728
+    }
+]

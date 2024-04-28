@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "esporte": "Atletismo",
+      "local": "Estádio Olímpico de Paris",
+      "data": "25 de julho de 2024",
+      "horario": "10:00"
+    },
+    {
+      "id": 2,
+      "esporte": "Natação",
+      "local": "Piscina Olímpica de Paris",
+      "data": "26 de julho de 2024",
+      "horario": "14:30"
+    },
+    {
+      "id": 3,
+      "esporte": "Ginástica Artística",
+      "local": "Ginásio Olímpico de Paris",
+      "data": "27 de julho de 2024",
+      "horario": "11:00"
+    },
+    {
+      "id": 4,
+      "esporte": "Basquetebol",
+      "local": "Arena de Basquetebol de Paris",
+      "data": "28 de julho de 2024",
+      "horario": "15:00"
+    },
+    {
+      "id": 5,
+      "esporte": "Voleibol",
+      "local": "Arena de Voleibol de Paris",
+      "data": "29 de julho de 2024",
+      "horario": "12:00"
+    },
+    {
+      "id": 6,
+      "esporte": "Ciclismo de Estrada",
+      "local": "Circuito de Ciclismo de Paris",
+      "data": "30 de julho de 2024",
+      "horario": "09:00"
+    },
+    {
+      "id": 7,
+      "esporte": "Judô",
+      "local": "Arena de Judô de Paris",
+      "data": "31 de julho de 2024",
+      "horario": "10:30"
+    },
+    {
+      "id": 8,
+      "esporte": "Tênis",
+      "local": "Complexo de Tênis de Paris",
+      "data": "1 de agosto de 2024",
+      "horario": "13:00"
+    },
+    {
+      "id": 9,
+      "esporte": "Halterofilismo",
+      "local": "Centro de Halterofilismo de Paris",
+      "data": "2 de agosto de 2024",
+      "horario": "16:00"
+    },
+    {
+      "id": 10,
+      "esporte": "Saltos Ornamentais",
+      "local": "Piscina Olímpica de Paris",
+      "data": "3 de agosto de 2024",
+      "horario": "14:00"
+    },
+    {
+      "id": 11,
+      "esporte": "Ginástica Rítmica",
+      "local": "Ginásio Olímpico de Paris",
+      "data": "4 de agosto de 2024",
+      "horario": "11:30"
+    },
+    {
+      "id": 12,
+      "esporte": "Tiro com Arco",
+      "local": "Campo de Tiro com Arco de Paris",
+      "data": "5 de agosto de 2024",
+      "horario": "09:30"
+    },
+    {
+      "id": 13,
+      "esporte": "Luta Livre",
+      "local": "Arena de Luta de Paris",
+      "data": "6 de agosto de 2024",
+      "horario": "10:00"
+    },
+    {
+      "id": 14,
+      "esporte": "Boxe",
+      "local": "Ringue de Boxe de Paris",
+      "data": "7 de agosto de 2024",
+      "horario": "15:30"
+    },
+    {
+      "id": 15,
+      "esporte": "Pentatlo Moderno",
+      "local": "Várias localizações em Paris",
+      "data": "8 de agosto de 2024",
+      "horario": "08:00"
+    },
+    {
+      "id": 16,
+      "esporte": "Vela",
+      "local": "Baía de Marselha",
+      "data": "9 de agosto de 2024",
+      "horario": "11:00"
+    },
+    {
+      "id": 17,
+      "esporte": "Hóquei sobre Grama",
+      "local": "Estádio de Hóquei sobre Grama de Paris",
+      "data": "10 de agosto de 2024",
+      "horario": "14:00"
+    },
+    {
+      "id": 18,
+      "esporte": "Rugby",
+      "local": "Estádio de Rugby de Paris",
+      "data": "11 de agosto de 2024",
+      "horario": "13:00"
+    },
+    {
+      "id": 19,
+      "esporte": "Badminton",
+      "local": "Arena de Badminton de Paris",
+      "data": "12 de agosto de 2024",
+      "horario": "10:00"
+    },
+    {
+      "id": 20,
+      "esporte": "Escalada Esportiva",
+      "local": "Centro de Escalada de Paris",
+      "data": "13 de agosto de 2024",
+      "horario": "09:30"
+    }
+  ]
+  
